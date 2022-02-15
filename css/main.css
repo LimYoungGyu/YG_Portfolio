@@ -331,6 +331,7 @@ body {
 }
 .section .box .swiper .swiper-slide .slide_img {
   margin-top: 5%;
+  cursor: pointer;
 }
 .section .box .swiper .swiper-slide > div {
   width: 50%;
